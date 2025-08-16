@@ -51,12 +51,22 @@
 ---
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
 
-<a href="https://www.linkedin.com/in/sachintha-dilwarna-17501527bf" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="sachintha-dilwarna" height="50" width="50" /></a>
-<a href="https://www.facebook.com/share/15DGQwPyE4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachintha guruge" height="50" width="50" /></a>
-<a href="https://www.instagram.com/sachinthaguruge?igsh=MXRjMXk5N2N0am52aA==" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="sachinthaguruge" height="50" width="50" /></a>
+<p align="center">
+  <a href="https://www.youtube.com/@sachinthaguruge613" target="_blank">
+    <img src="https://github.com/sachinthaTec/your-repo/blob/main/Images/youtube-icon.png?raw=true" alt="YouTube" width="50" height="50"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sachintha-dilwarna-17501527bf" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg?raw=true" alt="LinkedIn" width="50" height="50"/>
+  </a>
+  <a href="https://www.facebook.com/share/15DGQwPyE4/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="50" height="50"/>
+  </a>
+  <a href="https://www.instagram.com/sachinthaguruge?igsh=MXRjMXk5N2N0am52aA==" target="_blank">
+    <img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Instagram" width="50" height="50"/>
+  </a>
 </p>
+
 
 ---
 
